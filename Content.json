@@ -73,7 +73,7 @@
               {
                 "name": "Telegram",
                 "type": "url",
-                "icon": "social_vib",
+                "icon": "telegram",
                 "url": "tg://resolve?domain=37377535831",
                 "app": "https://apps.apple.com/ru/app/telegram/id747648890?mt=12"
               },
