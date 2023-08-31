@@ -65,14 +65,14 @@
                 "name": "Viber",
                 "type": "url",
                 "icon": "social_vib",
-                "url": "viber://chat?number=37377535831",
+                "url": "viber://chat?number=+37377535831",
                 "app": "https://itunes.apple.com/ru/app/viber-messenger/id382617920"
               },
               {
                 "name": "Telegram",
                 "type": "url",
                 "icon": "telegram",
-                "url": "tg://resolve?domain=37377535831",
+                "url": "tg://resolve?domain=+37377535831",
                 "app": "https://apps.apple.com/ru/app/telegram/id747648890?mt=12"
               },
               {
