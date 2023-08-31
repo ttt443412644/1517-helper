@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "lang": "ru",
+      "name": "Прокат авто",
+      "icon": "icon_car_rent",
+      "details": {
+        "icon": "icon_car_rent",
+        "description": "Можно взять в аренду автомобиль",
+        "groups": [
+          {
+            "title": "",
+            "items": [
+              {
+                "name": "Toyota Camry"
+              },
+              {
+                "name": "Volkswagen Jetta"
+              },
+              {
+                "name": "Toyota Prius"
+              }
+            ]
+          },
+          {
+            "title": "Контакты",
+            "items": [
+              {
+                "name": "533-55955",
+                "type": "phone",
+                "icon": "icons8-phone-30",
+                "url": "tg://resolve?domain=37353355955"
+              },
+              {
+                "name": "775-35831",
+                "type": "phone",
+                "icon": "icons8-phone-30",
+                "url": "tg://resolve?domain=37377535831"
+              },
+              {
+                "name": "Viber",
+                "type": "url",
+                "icon": "social_vib",
+                "url": "viber://chat?number=37377535831",
+                "app": "https://itunes.apple.com/ru/app/viber-messenger/id382617920"
+              },
+              {
+                "name": "Telegram",
+                "type": "url",
+                "icon": "telegram",
+                "url": "tg://resolve?domain=37377535831",
+                "app": "https://apps.apple.com/ru/app/telegram/id747648890?mt=12"
+              },
+              {
+                "name": "WhatsApp",
+                "type": "url",
+                "icon": "social_whatsapp",
+                "url": "whatsapp://send?phone=37377535831",
+                "app": "https://itunes.apple.com/ru/app/whatsapp-messenger/id310633997"
+              },
+              {
+                "name": "Instagram",
+                "type": "url",
+                "icon": "social_inst",
+                "url": "instagram://user?username=avtoprokat_md",
+                "app": "https://apps.apple.com/ru/app/instagram/id389801252"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "lang": "ru",
+      "name": "Эвакуатор",
+      "icon": "icon_tow_truck",
+      "details": {
+        "icon": "evac",
+        "description": "Услуги эвакуатора круглосуточно",
+        "groups": [
+          {
+            "title": "Контакты",
+            "items": [
+              {
+                "name": "533-77778",
+                "type": "phone",
+                "icon": "icons8-phone-30",
+                "url": "tg://resolve?domain=37353377778"
+              },
+              {
+                "name": "775-35832",
+                "type": "phone",
+                "icon": "icons8-phone-30",
+                "url": "tg://resolve?domain=37377535832"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
