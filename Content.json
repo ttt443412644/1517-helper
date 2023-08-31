@@ -45,7 +45,7 @@
               {
                 "name": "Тирасполь ул.Шевченко 99/1",
                 "icon": "co_from",
-                "url": "https://www.google.com/maps/@46.8653241,29.6078717,17z"
+                "url": "comgooglemaps://?center=46.8653241,29.6078717&zoom=14&views=traffic"
               },
               {
                 "name": "533-55955",
