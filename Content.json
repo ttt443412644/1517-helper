@@ -50,13 +50,13 @@
                 "name": "533-55955",
                 "type": "phone",
                 "icon": "icons8-phone-30",
-                "url": "tg://resolve?domain=37353355955"
+                "url": "tel://+37353355955"
               },
               {
                 "name": "775-35831",
                 "type": "phone",
                 "icon": "icons8-phone-30",
-                "url": "tg://resolve?domain=37377535831"
+                "url": "tel://+37377535831"
               }
             ]
           },
