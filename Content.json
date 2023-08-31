@@ -154,7 +154,13 @@
             "items": [
               {
                 "name": "Тирасполь ул.Шевченко 99/1",
-                "icon": "co_from"
+                "icon": "co_from",
+                "url": "https://www.google.com/maps/@46.8653241,29.6078717,6z"
+              },
+              {                                                         
+                "name": "775-66025",                                    
+                "icon": "icons8-phone-30",                              
+                "url": "tel://+37377566025"  
               }
             ]
           }
