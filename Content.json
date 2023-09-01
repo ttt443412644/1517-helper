@@ -29,13 +29,28 @@
             "title": "Наш автопарк",
             "items": [
               {
-                "name": "Toyota Camry"
+                "name": "Toyota Camry 40"
+              },
+              {
+                "name": "Toyota Prius V"
+              },
+              {
+                "name": "Toyota Prius 30"
+              },
+              {
+                "name": "Toyota Prius 20"
+              },
+              {
+                "name": "Toyota Auris"
+              },
+              {
+                "name": "Chevrolet Volt"
               },
               {
                 "name": "Volkswagen Jetta"
               },
               {
-                "name": "Toyota Prius"
+                "name": "Dacia Logan"
               }
             ]
           },
@@ -66,7 +81,7 @@
                 "name": "Viber",
                 "type": "url",
                 "icon": "social_vib",
-                "url": "viber://chat?number=+37377535831",
+                "url": "viber://chat?number=37377535831",
                 "app": "https://itunes.apple.com/ru/app/viber-messenger/id382617920"
               },
               {
@@ -102,20 +117,18 @@
       "icon": "icon_tow_truck",
       "details": {
         "icon": "evac",
-        "description": "Выбирая нас, вы получаете быструю и профессиональную эвакуацию по разумной цене, любая сложность, 10-летний опыт, профессиональный подход.",
+        "description": "Выбирая нас, вы получаете быструю и профессиональную эвакуацию по разумной цене, любая сложность, профессиональный подход.",
         "groups": [
           {
             "title": "Контакты",
             "items": [
               {
                 "name": "533-77778",
-                "type": "phone",
                 "icon": "icons8-phone-30",
                 "url": "tel://+37353377778"
               },
               {
                 "name": "775-35832",
-                "type": "phone",
                 "icon": "icons8-phone-30",
                 "url": "tel://+37377535832"
               }
@@ -137,62 +150,18 @@
             "title": "Почему именно мы",
             "items": [
               {
-                "name": "Теплая умягченная вода"
+                "name": "Теплая, умягченная вода"
               },
               {
                 "name": "Премиальная пена"
               },
               {
-                "name": "Хороший напор - новое оборудование"     
+                "name": "Хороший напор - новое оборудование"
               },
               {
-                "name": "Мощный пылесос"                                     
-              } 
-            ]
-          },
-          {
-            "title": "Контакты",
-            "items": [
-              {
-                "name": "Тирасполь ул.Шевченко 99/1",
-                "icon": "co_from",
-                "url": "https://goo.gl/maps/yYtMVpG3h75pQzA47"
-              },
-              {                                                         
-                "name": "775-66025",                                    
-                "icon": "icons8-phone-30",                              
-                "url": "tel://+37377566025"  
+                "name": "Мощный пылесос"
               }
             ]
-          }
-        ]
-      }
-    },
-
-     {
-      "lang": "ru",
-      "name": "Услуги программиста",
-      "icon": "main_menu_profile_2",
-      "details": {
-        "icon": "icon_car_wash",
-        "description": "Круглосуточная автомойка самообслуживания",
-        "groups": [
-          {
-            "title": "Почему именно мы",
-            "items": [
-              {
-                "name": "Теплая умягченная вода"
-              },
-              {
-                "name": "Премиальная пена"
-              },
-              {
-                "name": "Хороший напор - новое оборудование"     
-              },
-              {
-                "name": "Мощный пылесос"                                     
-              } 
-            ]
           },
           {
             "title": "Контакты",
@@ -202,10 +171,10 @@
                 "icon": "co_from",
                 "url": "https://goo.gl/maps/yYtMVpG3h75pQzA47"
               },
-              {                                                         
-                "name": "775-66025",                                    
-                "icon": "icons8-phone-30",                              
-                "url": "tel://+37377566025"  
+              {
+                "name": "775-66025",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37377566025"
               }
             ]
           }
