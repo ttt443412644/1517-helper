@@ -200,6 +200,206 @@
         ]
       }
     },
+    {
+      "lang": "ro",
+      "name": "Chirie auto",
+      "icon": "icon_car_rent",
+      "details": {
+        "icon": "icon_car_rent",
+        "description": "Chirie auto de la econom la business class",
+        "groups": [
+          {
+            "title": "De ce noi?",
+            "items": [
+              {
+                "name": "Toate autoturismele noastre au asigurare"
+              },
+              {
+                "name": "Avem grijă de curățenia autoturismelor noastre"
+              },
+              {
+                "name": "Mașinile noastre sunt testate regulat în stații tehnice"
+              },
+              {
+                "name": "Toate autoturismele sunt verificate riguros înainte de a fi transmise clientului"
+              }
+            ]
+          },
+          {
+            "title": "Parcul nostru auto",
+            "items": [
+              {
+                "name": "Toyota Camry 40"
+              },
+              {
+                "name": "Toyota Prius V"
+              },
+              {
+                "name": "Toyota Prius 30"
+              },
+              {
+                "name": "Toyota Prius 20"
+              },
+              {
+                "name": "Toyota Auris"
+              },
+              {
+                "name": "Chevrolet Volt"
+              },
+              {
+                "name": "Volkswagen Jetta"
+              },
+              {
+                "name": "Dacia Logan"
+              }
+            ]
+          },
+          {
+            "title": "Contacte",
+            "items": [
+              {
+                "name": "or. Tiraspol, str. Șevcenco, 99/1",
+                "icon": "co_from",
+                "url": "https://www.google.com/maps/@46.8653241,29.6078717,17z"
+              },
+              {
+                "name": "533-55955",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37353355955"
+              },
+              {
+                "name": "775-35831",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37377535831"
+              }
+            ]
+          },
+          {
+            "title": "Noi în rețelele sociale",
+            "items": [
+              {
+                "name": "Viber",
+                "type": "url",
+                "icon": "social_vib",
+                "url": "viber://chat?number=+37377535831",
+                "app": "https://itunes.apple.com/ru/app/viber-messenger/id382617920"
+              },
+              {
+                "name": "Telegram",
+                "type": "url",
+                "icon": "telegram",
+                "url": "tg://resolve?domain=+37377535831",
+                "app": "https://apps.apple.com/ru/app/telegram/id747648890?mt=12"
+              },
+              {
+                "name": "WhatsApp",
+                "type": "url",
+                "icon": "social_whatsapp",
+                "url": "whatsapp://send?phone=+37377535831",
+                "app": "https://itunes.apple.com/ru/app/whatsapp-messenger/id310633997"
+              },
+              {
+                "name": "Instagram",
+                "type": "url",
+                "icon": "social_inst",
+                "url": "instagram://user?username=avtoprokat_md",
+                "app": "https://apps.apple.com/ru/app/instagram/id389801252"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "lang": "ro",
+      "name": "Evacuator",
+      "icon": "icon_tow_truck",
+      "details": {
+        "icon": "evac",
+        "description": "Cu noi, beneficiați de o abordare profesională și o evacuare rapidă, indiferent de dificultate, la un preț rezonabil",
+        "groups": [
+          {
+            "title": "Contacte",
+            "items": [
+              {
+                "name": "533-77778",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37353377778"
+              },
+              {
+                "name": "775-35832",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37377535832"
+              }
+            ]
+          },
+          {
+            "title": "Noi în rețelele sociale",
+            "items": [
+              {
+                "name": "Viber",
+                "type": "url",
+                "icon": "social_vib",
+                "url": "viber://chat?number=+37377535832",
+                "app": "https://itunes.apple.com/ru/app/viber-messenger/id382617920"
+              },
+              {
+                "name": "Telegram",
+                "type": "url",
+                "icon": "telegram",
+                "url": "tg://resolve?domain=+37377535832",
+                "app": "https://apps.apple.com/ru/app/telegram/id747648890?mt=12"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "lang": "ro",
+      "name": "Spălătorie auto self-service",
+      "icon": "icon_car_wash",
+      "details": {
+        "icon": "icon_car_wash",
+        "description": "Spalatorie auto self-service - non/stop",
+        "groups": [
+          {
+            "title": "De ce noi?",
+            "items": [
+              {
+                "name": "Apă caldă și dedurizată"
+              },
+              {
+                "name": "Spumă clasa premium"
+              },
+              {
+                "name": "Presiune bună - echipament nou"
+              },
+              {
+                "name": "Aspirator puternic"
+              }
+            ]
+          },
+          {
+            "title": "Contacte",
+            "items": [
+              {
+                "name": "or. Tiraspol, str. Șevcenco, 99/1",
+                "icon": "co_from",
+                "url": "https://goo.gl/maps/yYtMVpG3h75pQzA47"
+              },
+              {
+                "name": "775-66025",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37377566025"
+              }
+            ]
+          }
+        ]
+      }
+    },
 
     {
       "lang": "en",
