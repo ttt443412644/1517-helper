@@ -199,6 +199,207 @@
           }
         ]
       }
+    },
+
+    {
+      "lang": "en",
+      "name": "Car rental",
+      "icon": "icon_car_rent",
+      "details": {
+        "icon": "icon_car_rent",
+        "description": "Car rental from economy to business class cars",
+        "groups": [
+          {
+            "title": "Why are we",
+            "items": [
+              {
+                "name": "All of our cars are insured"
+              },
+              {
+                "name": "We keep our cars clean"
+              },
+              {
+                "name": "Our cars regularly undergo maintenance at service centres"
+              },
+              {
+                "name": "All cars are tested before the client usage"
+              }
+            ]
+          },
+          {
+            "title": "Our fleet",
+            "items": [
+              {
+                "name": "Toyota Camry 40"
+              },
+              {
+                "name": "Toyota Prius V"
+              },
+              {
+                "name": "Toyota Prius 30"
+              },
+              {
+                "name": "Toyota Prius 20"
+              },
+              {
+                "name": "Toyota Auris"
+              },
+              {
+                "name": "Chevrolet Volt"
+              },
+              {
+                "name": "Volkswagen Jetta"
+              },
+              {
+                "name": "Dacia Logan"
+              }
+            ]
+          },
+          {
+            "title": "Contacts",
+            "items": [
+              {
+                "name": "Tiraspol Shevchenko St. 99/1",
+                "icon": "co_from",
+                "url": "https://www.google.com/maps/@46.8653241,29.6078717,17z"
+              },
+              {
+                "name": "533-55955",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37353355955"
+              },
+              {
+                "name": "775-35831",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37377535831"
+              }
+            ]
+          },
+          {
+            "title": "We are in social networks",
+            "items": [
+              {
+                "name": "Viber",
+                "type": "url",
+                "icon": "social_vib",
+                "url": "viber://chat?number=+37377535831",
+                "app": "https://itunes.apple.com/ru/app/viber-messenger/id382617920"
+              },
+              {
+                "name": "Telegram",
+                "type": "url",
+                "icon": "telegram",
+                "url": "tg://resolve?domain=+37377535831",
+                "app": "https://apps.apple.com/ru/app/telegram/id747648890?mt=12"
+              },
+              {
+                "name": "WhatsApp",
+                "type": "url",
+                "icon": "social_whatsapp",
+                "url": "whatsapp://send?phone=+37377535831",
+                "app": "https://itunes.apple.com/ru/app/whatsapp-messenger/id310633997"
+              },
+              {
+                "name": "Instagram",
+                "type": "url",
+                "icon": "social_inst",
+                "url": "instagram://user?username=avtoprokat_md",
+                "app": "https://apps.apple.com/ru/app/instagram/id389801252"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "lang": "en",
+      "name": "Tow truck",
+      "icon": "icon_tow_truck",
+      "details": {
+        "icon": "evac",
+        "description": "Choosing us you gradually perform professional evacuation at a reasonable price, any complexity, professional approach.",
+        "groups": [
+          {
+            "title": "Contacts",
+            "items": [
+              {
+                "name": "533-77778",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37353377778"
+              },
+              {
+                "name": "775-35832",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37377535832"
+              }
+            ]
+          },
+          {
+            "title": "We are in social networks",
+            "items": [
+              {
+                "name": "Viber",
+                "type": "url",
+                "icon": "social_vib",
+                "url": "viber://chat?number=+37377535832",
+                "app": "https://itunes.apple.com/ru/app/viber-messenger/id382617920"
+              },
+              {
+                "name": "Telegram",
+                "type": "url",
+                "icon": "telegram",
+                "url": "tg://resolve?domain=+37377535832",
+                "app": "https://apps.apple.com/ru/app/telegram/id747648890?mt=12"
+              }
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "lang": "en",
+      "name": "Self-service washing",
+      "icon": "icon_car_wash",
+      "details": {
+        "icon": "icon_car_wash",
+        "description": "Self-service washing",
+        "groups": [
+          {
+            "title": "We are in social networks",
+            "items": [
+              {
+                "name": "Warm soft water"
+              },
+              {
+                "name": "High quality foam"
+              },
+              {
+                "name": "Good pressure - New equipment"
+              },
+              {
+                "name": "Powerful vacuum cleaner"
+              }
+            ]
+          },
+          {
+            "title": "Contacts",
+            "items": [
+              {
+                "name": "Tiraspol Shevchenko St. 99/1",
+                "icon": "co_from",
+                "url": "https://goo.gl/maps/yYtMVpG3h75pQzA47"
+              },
+              {
+                "name": "775-66025",
+                "icon": "icons8-phone-30",
+                "url": "tel://+37377566025"
+              }
+            ]
+          }
+        ]
+      }
     }
   ]
 }
