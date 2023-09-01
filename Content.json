@@ -81,7 +81,7 @@
                 "name": "Viber",
                 "type": "url",
                 "icon": "social_vib",
-                "url": "viber://chat?number=37377535831",
+                "url": "viber://chat?number=+37377535831",
                 "app": "https://itunes.apple.com/ru/app/viber-messenger/id382617920"
               },
               {
@@ -95,7 +95,7 @@
                 "name": "WhatsApp",
                 "type": "url",
                 "icon": "social_whatsapp",
-                "url": "whatsapp://send?phone=37377535831",
+                "url": "whatsapp://send?phone=+37377535831",
                 "app": "https://itunes.apple.com/ru/app/whatsapp-messenger/id310633997"
               },
               {
@@ -141,7 +141,7 @@
                 "name": "Viber",
                 "type": "url",
                 "icon": "social_vib",
-                "url": "viber://chat?number=37377535832",
+                "url": "viber://chat?number=+37377535832",
                 "app": "https://itunes.apple.com/ru/app/viber-messenger/id382617920"
               },
               {
