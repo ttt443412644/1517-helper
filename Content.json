@@ -150,13 +150,6 @@
                 "icon": "telegram",
                 "url": "tg://resolve?domain=+37377535832",
                 "app": "https://apps.apple.com/ru/app/telegram/id747648890?mt=12"
-              },
-              {
-                "name": "WhatsApp",
-                "type": "url",
-                "icon": "social_whatsapp",
-                "url": "whatsapp://send?phone=37377535832",
-                "app": "https://itunes.apple.com/ru/app/whatsapp-messenger/id310633997"
               }
             ]
           }
